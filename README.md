@@ -6,9 +6,9 @@ Develop an iOS App to help Brown University John Carter Library keep track of v
 
 
 ```js
-Tech used: 
+Tech and Skills used: 
 
-Server: Node.js, Amazon AWS
-Database: SQLite 
-iOS App: Swift
+a) Server: Node.js, Amazon AWS
+b) Database: SQLite 
+c) iOS App: Swift
 
