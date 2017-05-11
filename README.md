@@ -1,4 +1,4 @@
-##  "Check & Track" - iOS App for Brown University John Carter Library
+##  "Check-In Easy" - iOS App for Brown University John Carter Library
 
 <a href="https://docs.google.com/presentation/d/1ZryA1KyADO0cJw8wEY_STLJKt9nLCb6PbitWlowuMTY/pub?start=true&loop=true&delayms=60000"><img src="img/logo.png" align="left" hspace="8" vspace="4" width="40%"></a>
 
